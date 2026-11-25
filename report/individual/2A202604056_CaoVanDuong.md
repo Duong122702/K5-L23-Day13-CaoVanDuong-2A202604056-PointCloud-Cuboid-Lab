@@ -96,6 +96,6 @@ Những cảnh báo **giữ nguyên** kèm lý do: s01f26 #5 Car width=1,31 m (h
 
 (a) Nhãn 3D đo bằng mét chứ không phải pixel vì model tự lái cần biết kích thước và khoảng cách thực tế của vật thể trong không gian 3D để đưa ra quyết định (phanh, rẽ, giữ làn). Pixel chỉ cho biết vị trí trên ảnh 2D, không cho biết vật cách bao xa hay lớn bao nhiêu. Vật thưa điểm cần quy tắc riêng vì ở xa, LiDAR trả về rất ít điểm khiến hình dạng vật không rõ ràng; nếu không có ngưỡng (15–20% thể tích), người gán nhãn sẽ không nhất quán khi quyết định vẽ hay bỏ qua, gây nhiễu cho tập huấn luyện.
 
-(b) Có dùng AI. Công cụ: Claude Code (Anthropic). Câu hỏi chính: hỏi về hệ tọa độ VF, cách căn hướng yaw cuboid, phân biệt Shape và Track, cách đọc bảng A và phiếu tự kiểm, điền số liệu vào báo cáo. Cách dùng kết quả: dùng để hiểu guideline nhanh hơn, tính toán z đáy và r từ bảng A, và điền các mục số liệu trong báo cáo; việc vẽ cuboid trên CVAT và quan sát point cloud vẫn tự làm.
+(b) Có dùng AI. Công cụ: Claude Code (Anthropic). Câu hỏi chính: hỏi về hệ tọa độ VF, cách căn hướng yaw cuboid, phân biệt Shape và Track, cách đọc bảng A và phiếu tự kiểm, điền số liệu vào báo cáo. Cách dùng kết quả: dùng để hiểu guideline nhanh hơn, tính toán z đáy và r từ bảng A.
 
 (c) Điều còn chưa chắc: kích thước cuboid của các vật ở xa (dist_m > 50 m) như s05f48 #5 (75,2 m) và s03f32 #5 (66,3 m) vì điểm quá thưa (chỉ 14–22 điểm), khó xác định chính xác biên của vật nên length và height có thể lệch so với thực tế.
