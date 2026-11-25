@@ -1,0 +1,54 @@
+frame,idx,label,dist_m,points_in,ground_gap_m,flags,bang_a_sha256
+s01f26,1,Car,6.9,1973,0.04,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s01f26,2,Car,10.7,1419,0.08,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s01f26,3,Car,18.4,437,0.05,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s01f26,4,Car,11.0,1108,0.02,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s01f26,5,Car,21.1,561,0.07,width=1.31 ngoài khoảng 1.4–2.3 của Car,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s01f26,6,Car,15.1,789,0.20,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s01f26,7,Car,27.1,313,0.19,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s01f26,8,Car,24.5,379,0.03,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s01f50,1,Car,6.5,1459,0.02,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s01f50,2,Car,10.3,1410,0.06,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s01f50,3,Car,9.6,881,0.03,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s01f50,4,Car,9.2,1301,0.04,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s01f50,5,Car,16.1,440,0.01,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s02f17,1,Car,5.6,3511,0.17,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s02f17,2,Car,5.1,2727,0.15,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s02f17,3,Car,11.3,1052,-0.02,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s02f17,4,Car,15.1,523,0.02,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s02f17,5,Car,11.9,773,0.03,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s02f46,1,Car,11.3,943,0.35,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s02f46,2,Car,21.5,310,0.10,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s02f46,3,Car,19.3,469,0.36,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s02f46,4,Car,20.6,295,0.14,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s02f46,5,Car,38.1,85,0.25,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s03f32,1,Car,7.4,2319,0.04,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s03f32,2,Car,33.3,113,0.02,length=2.53 ngoài khoảng 3.0–6.0 của Car,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s03f32,3,Bus,34.7,370,0.05,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s03f32,4,Pedestrian,12.8,139,0.24,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s03f32,5,Car,66.3,22,,length=2.17 ngoài khoảng 3.0–6.0 của Car; height=0.94 ngoài khoảng 1.2–2.3 của Car,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s03f49,1,Car,8.9,1184,0.03,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s03f49,2,Car,14.8,741,-0.01,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s03f49,3,Car,19.7,407,0.01,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s03f49,4,Car,10.2,833,0.03,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s03f49,5,Cyclist,7.7,509,-0.02,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s04f00,1,Car,4.3,5854,0.02,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s04f00,2,Car,9.2,1333,0.09,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s04f00,3,Car,13.2,831,0.07,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s04f00,4,Car,17.0,595,0.01,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s04f00,5,Car,26.2,231,0.04,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s04f33,1,Car,9.5,1196,0.05,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s04f33,2,Car,10.2,1449,0.05,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s04f33,3,Car,26.4,303,0.05,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s04f33,4,Car,26.6,177,-0.00,length=2.98 ngoài khoảng 3.0–6.0 của Car,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s04f33,5,Cyclist,7.0,1024,0.05,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s05f15,1,Car,16.9,722,0.07,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s05f15,2,Car,4.8,5709,0.03,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s05f15,3,Car,13.2,813,0.03,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s05f15,4,Car,8.1,3422,0.18,width=2.42 ngoài khoảng 1.4–2.3 của Car; height=2.60 ngoài khoảng 1.2–2.3 của Car,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s05f15,5,Car,7.6,1046,0.43,height=1.17 ngoài khoảng 1.2–2.3 của Car,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s05f48,1,Car,4.5,9720,0.04,width=2.45 ngoài khoảng 1.4–2.3 của Car; height=2.34 ngoài khoảng 1.2–2.3 của Car,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s05f48,2,Car,9.1,1529,0.12,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s05f48,3,Car,30.2,200,-0.10,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s05f48,4,Car,30.5,92,,,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
+s05f48,5,Car,75.2,14,,length=2.08 ngoài khoảng 3.0–6.0 của Car; height=1.09 ngoài khoảng 1.2–2.3 của Car,fc16eb1fb4bda2ba4f8acf42fa6cc0d9113a960dedd9cdedfc574981ba4de934
